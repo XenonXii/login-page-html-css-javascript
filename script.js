@@ -18,6 +18,7 @@ cl("DEBUG------")
     document.getElementById("login_button").setAttribute("class","after_click_login_button")
     document.getElementById("cancel_button").setAttribute("class","after_click_cancel_button")
     document.getElementById("logo").setAttribute("class","after_click_logo")
+    document.getElementById("iframe").setAttribute("class","iframe_after_click")
     
 }
 function translate_right(){
@@ -27,4 +28,5 @@ function translate_right(){
 
     document.getElementById("login_button").setAttribute("class","login_button")
     document.getElementById("logo").setAttribute("class","logo")
+    document.getElementById("iframe").setAttribute("class","iframe")
 }

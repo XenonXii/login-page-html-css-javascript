@@ -121,3 +121,20 @@ body{
 
     margin-left: 0%;
 }
+.iframe{
+    width: 0px;
+    margin-top: -100px;
+    
+    height: 200px;
+   display: hidden;
+   transition: 0.4s;
+    margin-left: 1200px;
+}
+.iframe_after_click{
+    display: inline;
+    height: 200px;
+    margin-top: -100px;
+   transition: 0.4s;
+   margin-left: 500px;
+
+}
