@@ -113,8 +113,11 @@ body{
 }
 .logo:hover{
     scale: 140%;
+    filter: drop-shadow(5px 100px 5px black);
 }
 .after_click_logo:hover{
     scale: 140%;
+    filter: drop-shadow(5px 100px 5px black);
+
     margin-left: 0%;
 }
