@@ -22,8 +22,9 @@ cl("DEBUG------")
 }
 function translate_right(){
     cl("DEBUG------")
+    document.getElementById("cancel_button").setAttribute("class","cancel_button")
+
 
     document.getElementById("login_button").setAttribute("class","login_button")
-    document.getElementById("cancel_button").setAttribute("class","cancel_button")
     document.getElementById("logo").setAttribute("class","logo")
 }

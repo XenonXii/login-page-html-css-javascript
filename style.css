@@ -19,7 +19,8 @@
 .login_button:hover{
     width: 120px;
     height: 32px;
-    margin-left: 47%;
+    margin-left: 47.4%;
+
 }
 
 
@@ -69,7 +70,17 @@ body{
 .cancel_button:hover{
     width: 120px;
     height: 32px;
-    margin-left: 47%;
+    margin-left: 47.4%;
+}
+.after_click_cancel_button:hover{
+    width: 120px;
+    height: 32px;
+    margin-left:90px ;
+}
+.after_click_login_button:hover{
+    width: 120px;
+    height: 32px;
+    margin-left:90px ;
 }
 .after_click_cancel_button{
     width: 100px;
@@ -99,4 +110,11 @@ body{
     margin-left: -3%;
     transition: 0.4s;
 
+}
+.logo:hover{
+    scale: 140%;
+}
+.after_click_logo:hover{
+    scale: 140%;
+    margin-left: 0%;
 }
